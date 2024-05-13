@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Lightcast<br>✨ I've done almost 6-7 Project in ML primarily. <br>📚 I'm currently learning MLOps<br>🎯 Goals: Business Acumen and Cross-Functional Collaboration<br>🎲 Fun fact: Companies that make use of customer analytics are 23 times more likely to outperform their competitors in customer acquisition (nine times for retention), according to McKinsey.</p>
+<p align="left">🔭 I’m currently working as a Data Analyst at Lightcast<br>✨ I've done almost 5 Project in ML primarily. <br>📚 I'm currently learning MLOps<br>🎯 Goals: Business Acumen and Cross-Functional Collaboration<br>🎲 Fun fact: Companies that make use of customer analytics are 23 times more likely to outperform their competitors in customer acquisition (nine times for retention), according to McKinsey.</p>
 
 ###
 
