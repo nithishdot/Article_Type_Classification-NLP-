@@ -28,7 +28,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/nithish-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/nithish-j" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/u/nithish_jega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/nithish_jega" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/nithish_jega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/nithish_jega" height="30" width="40" /></a>
 </p>
 
 ###
